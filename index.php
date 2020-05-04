@@ -27,10 +27,10 @@
 
 	<h1> The quick brown fox jumps over the lazy dog </h1>
 
-	<p>Lorem ipsum dolor sit amet, <a href="#">Maleus Malesqueri</a>
+	<p id="indent">Lorem ipsum dolor sit amet, <a href="#">Maleus Malesqueri</a>
 	Cas congue quam ut tellus laicinia sit amet cusus dui molestie.</p>
 
-	<p>Industry's standard dummy text ever since the 1500s,
+	<p id="indent">Industry's standard dummy text ever since the 1500s,
 		when an unknown printer took a galley of type and scrambled it to make a type
 		specimen book. It has survived not only five centuries, but also the leap into
 		electronic typesetting, remaining essentially unchanged. It was popularised
@@ -38,7 +38,7 @@
 		passages, and more recently.. </p>
 
 
-		<p> Contrary to popular belief, Lorem Ipsum is not simply random text. It
+		<p id="indent"> Contrary to popular belief, Lorem Ipsum is not simply random text. It
 			has roots in a piece of classical Latin literature from 45 BC, making it
 			over 2000 years old. Richard McClintock, a Latin professor at
 			Hampden-Sydney College in Virginia, looked up one of the more obscure
@@ -48,11 +48,17 @@
 
 			<div class="Btn01">
 				<a class="Btn01-A" href="Msg2.php">
-					Click Me Here
+					Click Me Duff
 				</a>
 			</div>
 
-
+			<div class="List">
+					<ul>
+					  <li> <b>Example 1:</b> <a href="Js01.php">Make Text Appear </a></li>
+					  <li> Example 2 </li>
+					  <li> Example 3 </li>
+					</ul>
+			</div>
 
 </div> <!-- End MSG -->
 

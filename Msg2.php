@@ -92,7 +92,7 @@
     .Btn01-A:hover {
       background: #434343;
       letter-spacing: 1px;
-      width: 120px;
+      width: 110px;
       text-align: center;
       -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
       -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
