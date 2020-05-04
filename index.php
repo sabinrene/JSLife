@@ -3,17 +3,13 @@
 
 <head>
 
-<title>ITO investments</title>
+<title>Dark Msg</title>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" type="text/css" href="CSS/ITO.css">
-
+<link rel="stylesheet" type="text/css" href="CSS/JSLife.css">
 <link rel="stylesheet" type="text/css" href="CSS/Menu.css">
-<link rel="stylesheet" type="text/css" href="CSS/queries.css">
-<link rel="stylesheet" type="text/css" href="CSS/grid.css">
-
 <link rel="stylesheet" type="text/css" href="CSS/Footer.css">
 </head>
 
@@ -25,17 +21,40 @@
 
 
 
+<div class="Msg">
 
-	<div class="Banner">
+	<div class="Date"> Dec 16 1987 </div>
 
-		<div class="Headings">
-			<h2>Firma pionera en gestión </br>
-			    de capital privado</br>
-			<span class="BTxt2">en la región andina</span> </h2>
-		</div>
+	<h1> The quick brown fox jumps over the lazy dog </h1>
 
-	</div>
+	<p>Lorem ipsum dolor sit amet, <a href="#">Maleus Malesqueri</a>
+	Cas congue quam ut tellus laicinia sit amet cusus dui molestie.</p>
 
+	<p>Industry's standard dummy text ever since the 1500s,
+		when an unknown printer took a galley of type and scrambled it to make a type
+		specimen book. It has survived not only five centuries, but also the leap into
+		electronic typesetting, remaining essentially unchanged. It was popularised
+		in the 1960s with the release of Letraset sheets containing Lorem Ipsum
+		passages, and more recently.. </p>
+
+
+		<p> Contrary to popular belief, Lorem Ipsum is not simply random text. It
+			has roots in a piece of classical Latin literature from 45 BC, making it
+			over 2000 years old. Richard McClintock, a Latin professor at
+			Hampden-Sydney College in Virginia, looked up one of the more obscure
+			Latin words consectetur, from a Lorem Ipsum passage, and going through
+			the cites of the word in classical literature, discovered literature. </p>
+
+
+			<div class="Btn01">
+				<a class="Btn01-A" href="Msg2.php">
+					Click Me Here
+				</a>
+			</div>
+
+
+
+</div> <!-- End MSG -->
 
 
 <?php include 'Footer.php'; ?>
