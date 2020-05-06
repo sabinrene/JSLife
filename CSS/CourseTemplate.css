@@ -105,7 +105,7 @@ body {
   float: right;
   right: 60px;
   top: 50px;
-  background: pink;
+  background: white;
   text-align: center;
   width: 370px;
   height: 700px;
@@ -115,8 +115,36 @@ body {
   -webkit-box-shadow: 7px 10px 29px -10px rgba(0,0,0,0.75);
   -moz-box-shadow: 7px 10px 29px -10px rgba(0,0,0,0.75);
 }
-
-
+    .Course-Pic {
+      position: relative;
+      margin: 0 auto;
+      width: 98%;
+      top: 4px;
+      height: 225px;
+      background-image: url("../images/Preview.png");
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover; /* Resize the background image to cover the entire container */
+    }
+    .Course-Price {
+      position: relative;
+      margin-top: 20px;
+      Width: 98%;
+    }
+      .Course-Price h1 {
+        color: rgb(80, 87, 99);
+        text-align: center;
+        font-weight: bold;
+        font-size: 2.4em;
+      }
+    .Course-AddCart {
+      position: relative;
+      Width: 98%;
+      height: 50px;}
+    .Course-Buy {
+      position: relative;
+      Width: 98%;
+      height: 50px;}
 
 
 

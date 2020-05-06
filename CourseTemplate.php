@@ -87,7 +87,10 @@
 
 
 			<div class="CourseTemp-Right">
-					<h2> Right Box </h2>
+					<div class="Course-Pic">  </div>
+					<div class="Course-Price"> <h1> $9.99 </h1> </div>
+					<div class="Course-AddCart"> Add to Cart </div>
+					<div class="Course-Buy"> Buy Now </div>
 			</div>
 			<!-- End RIGHT -->
 
