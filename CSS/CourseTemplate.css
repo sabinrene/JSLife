@@ -10,6 +10,27 @@ body {
 
 
 
+.Btn02 {
+  width: 120px;
+  background: red;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+}
+
+.Btn02:hover {
+  background: #e60000;
+  border-radius: 6px;
+  font-weight: bolder;
+}
+
+
+      /* ------ */
+      /* Course */
+      /* ------ */
 .CourseTemplate {
   min-height: 800px;
 }
@@ -51,10 +72,13 @@ body {
 }
 
 
+
+
+
 .LearnCard {
   background: rgb(249, 249, 249);
   border: 1px solid lightgrey;
-
+  width: 90%;
   position: relative;
   height: auto;
   padding: 0px 20px;
@@ -75,10 +99,32 @@ body {
   }
 
 
+
+
+/* Requirements */
 .Reqs {
-  position: relative;
+  margin-bottom: 40px;
+}
+.Reqs li {
+  list-style-type: disc;
+  color: black;
 }
 
+/* Description */
+.Desc li {
+    list-style-type: disc;
+    color: black;
+}
+.Desc p {
+  color: black;
+}
+.Desc h2 {
+  margin-bottom: -5px;
+}
+.Desc h3 {
+  margin-bottom: -5px;
+  color: darkslategrey;
+}
 
 
 
@@ -137,14 +183,30 @@ body {
         font-weight: bold;
         font-size: 2.4em;
       }
-    .Course-AddCart {
-      position: relative;
-      Width: 98%;
-      height: 50px;}
-    .Course-Buy {
-      position: relative;
-      Width: 98%;
-      height: 50px;}
+      .Course-Btns{
+
+      }
+
+
+      /* Includes */
+      .Course-includes p {
+        position: relative;
+        color: black;
+        font-size: 0.9em;
+        margin-bottom: -10px;
+      }
+      .Course-includes ul {
+        list-style-type: none;
+        text-align: left;
+      }
+
+      .Course-includes li {
+          font-size: 0.9em;
+          color: rgb(80, 87, 99);
+          text-indent: -40px;
+          text-align: center;
+      }
+
 
 
 
@@ -165,5 +227,5 @@ body {
   padding: 5px;
   height: auto;
   background-color: rgb(28, 35, 41);
-  margin-top: 20px;
+  margin-top: 80px;
 }
