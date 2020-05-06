@@ -1,8 +1,14 @@
 
 body {
-  background-color: #1C2329;
+  /*background-color: #1C2329;*/
 }
 
+/* ClearFIX */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 h1 {
   color: #ffffff;
@@ -25,8 +31,6 @@ a {
   color: #fe921f;
   text-decoration: underline;
 }
-
-
 a:hover {
   color: #ffffff
 }
@@ -34,9 +38,7 @@ a:hover {
 
 
 
-#indent {
-  text-indent: 30px;
-}
+
 .Date {
   background: #fe921f;
   color: #ffffff;
@@ -49,16 +51,6 @@ letter-spacing: 1px;
 margin: 0 0 30px;
 padding: 10px 15px 8px;
 text-transform: uppercase;
-}
-
-
-.Msg {
-  position: relative;
-  top: 120px;
-  height: auto;
-  width: 60%;
-  max-width: 800px;
-  margin: 0 auto;
 }
 
 .Btn01 {

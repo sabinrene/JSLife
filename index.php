@@ -9,8 +9,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" type="text/css" href="CSS/JSLife.css">
-<link rel="stylesheet" type="text/css" href="CSS/Menu.css">
-<link rel="stylesheet" type="text/css" href="CSS/Footer.css">
+<link rel="stylesheet" type="text/css" href="CSS/Home.css">
+<link rel="stylesheet" type="text/css" href="Php-inserts/FinitoList.css">
 </head>
 
 
@@ -52,13 +52,9 @@
 				</a>
 			</div>
 
-			<div class="List">
-					<ul>
-					  <li> <b>Example 1:</b> <a href="Js01.php">Make Text Appear </a></li>
-					  <li> Example 2 </li>
-					  <li> Example 3 </li>
-					</ul>
-			</div>
+
+			<?php include('Php-inserts/FinitoList.php'); ?>
+
 
 </div> <!-- End MSG -->
 

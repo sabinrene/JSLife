@@ -8,8 +8,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" type="text/css" href="CSS/Menu.css">
-<link rel="stylesheet" type="text/css" href="CSS/Footer.css">
+<link rel="stylesheet" type="text/css" href="Php-inserts/FinitoList.css">
 
 
 
@@ -32,13 +31,19 @@
         color: #ff6600;
         text-decoration: none;
       }
-      p {
+      p, li {
         color: #333;
         font-family: 'Lucida Sans', Arial, sans-serif;
         font-size: 16px;
         line-height: 26px;
         text-indent: 30px;
       }
+
+
+      ul {
+        list-style-type: none;
+      }
+
 
 
     .Msg {
@@ -143,6 +148,8 @@
 				</a>
 			</div>
 
+
+      <?php include('Php-inserts/FinitoList.php'); ?>
 
 
 </div> <!-- End MSG -->

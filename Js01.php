@@ -9,8 +9,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" type="text/css" href="CSS/JSLife.css">
-<link rel="stylesheet" type="text/css" href="CSS/Menu.css">
-<link rel="stylesheet" type="text/css" href="CSS/Footer.css">
+<link rel="stylesheet" type="text/css" href="CSS/Home.css">
+<link rel="stylesheet" type="text/css" href="Php-inserts/FinitoList.css">
 
 <style media="screen">
 
@@ -43,7 +43,6 @@
 
 <body>
 
-<?php include 'Menu.php'; ?>
 
 
 
@@ -71,27 +70,18 @@
 
 
 
-			<div class="List">
-					<ul>
-					  <li> <b>Example 1:</b> <a href="Js01.php">Make Text Appear </a></li>
-					  <li> Example 2 </li>
-					  <li> Example 3 </li>
-					</ul>
-			</div>
-
-
-
-
       			<div class="Btn01">
       				<a class="Btn01-A" href="Msg2.php">
       					Click Me Away
       				</a>
       			</div>
 
+
+
+            <?php include('Php-inserts/FinitoList.php'); ?>
 </div> <!-- End MSG -->
 
 
-<?php include 'Footer.php'; ?>
 
 </body>
 </html>

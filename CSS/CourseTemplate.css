@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+}
+.CTemp-Header {
+  position: relative;
+  height: 180px;
+  background-color: rgb(28, 35, 41);
+}
+
+
+
+
+.CourseTemplate {
+  min-height: 800px;
+}
+.CourseTemp-HeadBg {
+  background-color: rgb(41, 48, 59);
+  height: 320px;
+}
+
+.TemplateWrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.CourseHeader {
+  position: relative;
+  height: 320px;
+  }
+  .CourseHeader h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 10px;
+  }
+  .CourseHeader p {
+    color: white;
+    margin-bottom: -15px;
+  }
+  .CourseHeader-in {
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+  }
+
+
+.CourseTemp-Left {
+  position: relative;
+  float: left;
+  width: 63%;
+}
+
+
+.LearnCard {
+  background: rgb(249, 249, 249);
+  border: 1px solid lightgrey;
+
+  position: relative;
+  height: auto;
+  padding: 0px 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+  .ToLearn {
+    margin-bottom: 20px;
+    margin-left: -30px;
+  }
+  .ToLearn-Item {
+    width: 45%;
+    height: auto;
+    float: left;
+    padding: 10px;
+    color: grey;
+  }
+
+
+.Reqs {
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.CourseTemp-Right {
+  position: relative;
+  float: right;
+  right: 60px;
+  top: 50px;
+  background: pink;
+  text-align: center;
+  width: 370px;
+  height: 700px;
+  border-radius: 10px;
+
+  box-shadow: 7px 10px 29px -10px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 7px 10px 29px -10px rgba(0,0,0,0.75);
+  -moz-box-shadow: 7px 10px 29px -10px rgba(0,0,0,0.75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.FootList {
+  padding: 5px;
+  height: auto;
+  background-color: rgb(28, 35, 41);
+  margin-top: 20px;
+}
