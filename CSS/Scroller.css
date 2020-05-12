@@ -1,4 +1,15 @@
 
+.Msg {
+  position: relative;
+  top: 0px;
+  min-height: 100px;
+  height:  calc(500px + 100px);
+  width: 60%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
  ::-webkit-scrollbar {
   width: 1px;
   height: 1px;
@@ -16,32 +27,32 @@ div {
 .horizontal-scroll-wrapper {
   position: relative;
   display: block;
-  width: calc(250px + 1px);
+  width: calc(300px + 1px);
   max-height: 750px;
   margin: 0;
   padding-top: 1px;
-  background: #abc;
+  background: white;
   overflow-y: auto;
   overflow-x: hidden;
-  -webkit-transform: rotate(-90deg) translateY(-250px);
-          transform: rotate(-90deg) translateY(-250px);
+  -webkit-transform: rotate(-90deg) translateY(-350px);
+          transform: rotate(-90deg) translateY(-350px);
   -webkit-transform-origin: right top;
           transform-origin: right top;
 }
 .horizontal-scroll-wrapper > div {
   display: block;
-  padding: 5px;
-  background: #cab;
+  padding: 10px;
+  background: lightgrey;
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
   -webkit-transform-origin: right top;
           transform-origin: right top;
 }
 .squares {
-  padding: 250px 0 0 0;
+  padding: 300px 0 0 0;
 }
 .squares > div {
-  width: 250px;
-  height: 250px;
-  margin: 10px 0;
+  width: 300px;
+  height: 300px;
+  margin: 15px 0;
 }
