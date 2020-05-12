@@ -27,6 +27,55 @@
 
 
 
+			<div class="CourseTemp-Right">
+				<div class="CourseTemp-Right-Container">
+
+					<div class="Course-Pic">  </div>
+					<div class="Course-Price"> <h1> $9.99 </h1> </div>
+					<div class="Course-Btns">
+						<div class="Btn02">
+							Add to Cart
+						</div>
+						<div class="Btn02">
+							Buy Now
+						</div>
+					</div>
+
+					<div class="Course-includes">
+						<p>This course includes: </p>
+							<ul>
+								<li> 17 hours of on-demand video </li>
+								<li> 11 articles to deepen knowledge </li>
+								<li> Mobile friendly Access </li>
+								<li> Fulltime access </li>
+							</ul>
+					</div>
+
+					<div class="ribbon-wrapper">
+						<div class="glow">&nbsp;</div>
+						<div class="ribbon-front">
+							<a href="#"> Share </a>
+						</div>
+							<div class="ribbon-edge-topleft"></div>
+							<div class="ribbon-edge-topright"></div>
+							<div class="ribbon-edge-bottomleft"></div>
+							<div class="ribbon-edge-bottomright"></div>
+					</div>
+
+
+					</div>
+			</div>
+			<!-- End RIGHT -->
+
+
+
+
+
+
+
+
+
+
 <div class="CourseTemplate clearfix">
 	<div class="CourseTemp-HeadBg">
 		<div class=" TemplateWrap">
@@ -120,29 +169,7 @@
 			<!-- End LEFT -->
 
 
-			<div class="CourseTemp-Right">
-					<div class="Course-Pic">  </div>
-					<div class="Course-Price"> <h1> $9.99 </h1> </div>
-					<div class="Course-Btns">
-						<div class="Btn02">
-							Add to Cart
-						</div>
-						<div class="Btn02">
-							Buy Now
-						</div>
-					</div>
 
-					<div class="Course-includes">
-						<p>This course includes: </p>
-							<ul>
-								<li> 17 hours of on-demand video </li>
-								<li> 11 articles to deepen knowledge </li>
-								<li> Mobile friendly Access </li>
-								<li> Fulltime access </li>
-							</ul>
-					</div>
-			</div>
-			<!-- End RIGHT -->
 
 
 

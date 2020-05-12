@@ -9,6 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" type="text/css" href="CSS/JSLife.css">
+<link rel="stylesheet" type="text/css" href="CSS/JSFooter.css">
 <link rel="stylesheet" type="text/css" href="CSS/Home.css">
 <link rel="stylesheet" type="text/css" href="Php-inserts/FinitoList.css">
 </head>
@@ -55,11 +56,9 @@
 
 			<?php include('Php-inserts/FinitoList.php'); ?>
 
-
 </div> <!-- End MSG -->
 
 
-<?php include 'Footer.php'; ?>
 
 </body>
 </html>

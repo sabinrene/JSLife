@@ -1,16 +1,13 @@
-
-body {
-  /*background-color: #1C2329;*/
-}
-
 /* ClearFIX */
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
+
 body {
   font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -56,8 +53,6 @@ text-transform: uppercase;
 
 .Btn01 {
   position: relative;
-  left: 80%;
-  top: 20px;
   margin-bottom: 140px;
 }
 

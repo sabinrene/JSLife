@@ -1,7 +1,9 @@
 
 /* ------------ */
-/*  Finiti List */
+/*  Finito List */
 /* ------------ */
 .FinitoList {
-  margin: 40px 0;
+  position: relative;
+  margin-bottom: 40px;
+  float: left;
 }

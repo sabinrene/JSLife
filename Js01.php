@@ -67,18 +67,13 @@
       <p id="TxtHere"> <p>
   </div>
 
+		<div class="Btn01">
+			<a class="Btn01-A" href="Msg2.php">
+				Click Me Away
+			</a>
+		</div>
 
-
-
-      			<div class="Btn01">
-      				<a class="Btn01-A" href="Msg2.php">
-      					Click Me Away
-      				</a>
-      			</div>
-
-
-
-            <?php include('Php-inserts/FinitoList.php'); ?>
+    <?php include('Php-inserts/FinitoList.php'); ?>
 </div> <!-- End MSG -->
 
 

@@ -1,5 +1,3 @@
-
-
 #indent {
   text-indent: 30px;
 }
@@ -10,8 +8,8 @@ body {
 
 .Msg {
   position: relative;
-  top: 120px;
-  height: auto;
+  top: 0px;
+  min-height: 500px;
   width: 60%;
   max-width: 800px;
   margin: 0 auto;
