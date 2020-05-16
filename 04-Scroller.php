@@ -34,18 +34,26 @@
 	<div class="Date"> May 8th 2020 </div>
 
 	<h1> Div Scroller </h1>
+	<a href="https://codepen.io/pieter-biesemans/pen/BQBWXX"> CodePen </a>
 	<p> Php Scroller for n div's </p>
 
-		<div class="horizontal-scroll-wrapper squares">
-			<div> <h1> item 1 </h1> </div>
-			<div>item 2</div>
-			<div>item 3</div>
-			<div>item 4</div>
-			<div>item 5</div>
-			<div>item 6</div>
-			<div>item 7</div>
-			<div>item 8</div>
-		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 	<div class="Btn01">

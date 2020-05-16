@@ -4,5 +4,6 @@
   					<li> <b>Example 2:</b> <a href="CourseTemplate.php">Udemy - Course Template </a></li>
 						<li> <b>Example 3:</b> <a href="03-ModalLogin.php"> Modal & Login </a></li>
 						<li> <b>Example 4:</b> <a href="04-Scroller.php"> Scroller </a></li>
+						<li> <b>Example 5:</b> <a href="04-RichEditor.php"> Rich Text Editor </a></li>
 					</ul>
 			</div>
